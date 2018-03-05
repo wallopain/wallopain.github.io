@@ -1,0 +1,117 @@
+body{
+	background-color: white;
+
+     }
+
+     h1{
+     	color: black;
+     	font-family:EO-Calibre, sans-serif;
+     	font-size: 20px;
+     	line-height: 30px;
+     	font-weight: 900;
+     	font-style: normal;
+     	margin-left: 200px;
+     	margin-top: 50px;
+     }
+      .toplinks a{
+     	float: right;
+     	margin-top: -70px;
+     	color: #637a98;
+     	text-decoration: none;
+     	font-weight: 400;
+     	font-style: normal;
+     	font-size: 15px;
+     	font-family: EO-Calibre, sans-serif;
+
+     }
+     .aboutlink{
+     	margin-right: 500px;
+
+     }
+     .writinglink{
+     	margin-right: 400px;
+     }
+     .photoslink{
+     	margin-right: 300px;
+     }
+     .contactlink{
+     	margin-right: 200px;
+     }
+     #colorabout{
+     	color: black;
+     }
+     h2{
+     	color: black;
+     	font-family:EO-Calibre, sans-serif;
+     	font-size: 35px;
+     	line-height: 52px;
+     	font-weight: 700;
+     	font-style: normal;
+     }
+     p{
+     	color: #637a98;
+     	font-weight: 400;
+     	font-style: normal;
+     	font-size: 15px;
+     	font-family: EO-Calibre, sans-serif;
+     	line-height: 34px;
+     }
+     .contactme a{
+     	color: #0054cc;
+     	text-decoration: none;
+
+     }
+     .SIGN img{
+     	margin-top: 20px;
+
+     }
+     .Speaking {
+     	margin-top: 150px;
+     }
+     h3, h4, h5 {
+     	color: #000000;
+     	font-weight: 700;
+     	font-style: normal;
+     	font-size: 20px;
+     	font-family: EO-Calibre, sans-serif;
+     	line-height: 40px;
+
+     }
+     .h3,.h4,.h5{
+     	color: #637a98;
+     	font-weight: 400;
+     	font-style: normal;
+     	font-size: 17px;
+     	font-family: EO-Calibre, sans-serif;
+     	line-height: 34px;
+
+     }
+     .Lastheader {
+     	margin-top: 200px;
+     	margin-left: -8px;
+
+     }
+     h6{
+     	color: #000000;
+     	font-weight: 700;
+     	font-style: normal;
+     	font-size: 17px;
+     	font-family: EO-Calibre, sans-serif;
+     	line-height: 27px;
+     }
+     .h6 {
+     	color: #637a98;
+     	font-weight: 400;
+     	font-style: normal;
+     	font-size: 17px;
+     	font-family: EO-Calibre, sans-serif;
+     	line-height: 34px;
+
+     }
+     div{
+     	margin-left: 200px;
+     	margin-top: 50px;
+     }
+
+
+      

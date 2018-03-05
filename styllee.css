@@ -1,0 +1,51 @@
+body { 
+          background-color: white;
+        }
+
+        h1 {
+        	color: #bec7cd;
+        	font-size: 40px;
+        	font-family: EO-Calibre, sans-serif;
+            font-style: normal;
+            line-height: 52px;
+            font-weight: 700;
+        }
+
+        #wilfrid{
+            color: #000000;
+            font-size: 40px;
+            font-family: EO-Calibre, sans-serif;
+            font-style: normal;
+            line-height: 52px;
+            font-weight: 700;
+        }
+        div{
+            margin-left: 150px;
+            margin-top: 150px;
+        }
+        .bottomlinks a{
+            color: #bec7cd;
+            font-size: 15px;
+            font-family: EO-Calibre, sans-serif;
+            font-style: normal;
+            line-height: 30px;
+            font-weight: 600;
+            text-decoration: none;
+            margin-left: -40px;
+        }
+
+        .unordered-1{
+            list-style-type: none;
+        }
+
+        .unordered-2{
+            margin-left: 200px;
+            margin-top: -135px;
+            list-style-type: none;
+        }
+        .unordered-3{
+            margin-left: 400px;
+            margin-top: -135px;
+            list-style-type: none;
+
+        }
