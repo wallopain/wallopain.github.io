@@ -21,10 +21,17 @@ body{
     }
     .keneface img{
     	margin-top: -40px;
+
 	 
     }
     #rrow{
         padding-bottom: 80px;
+    }
+    .target a{
+        text-decoration: none;
+    }
+    .usable a{
+        text-decoration: none;
     }
     .first{
     	font-family: "Work Sans", Helvetica, Arial, sans-serif;
@@ -39,11 +46,12 @@ body{
     }
     h2{
     	font-family: "Work Sans", Helvetica, Arial, sans-serif;
-    	font-size: 40px;
+    	font-size: 38px;
     	color: #0e0e0e;
     	font-weight: 600px;
     	font-style: normal;
     	line-height: 44px;
+
     }
     .header{
     	font-family: "Work Sans", Helvetica, Arial, sans-serif;
@@ -81,12 +89,6 @@ body{
     	margin-top: 0px;
     	
     }
-    .truppr{
-    	margin-top: 100px;
-    }
-    #sierra{
-    	padding: 0px;
-    }
     h3{
         font-family: "Work Sans", Helvetica, Arial, sans-serif;
         font-size: 30px;
@@ -115,6 +117,9 @@ body{
         color:#fff;
         font-size: 16px;
     }
+    .oilreport{
+        box-shadow: 10px 10px black;
+    }
     .twitter a:hover {
         color:#55acee;
         text-decoration: none;
@@ -131,4 +136,7 @@ body{
         color:#0be370;
         text-decoration: none;
           }
+    .picture{
+          z-index: 
+    }
     
