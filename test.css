@@ -1,6 +1,7 @@
 body{
 
-}.forms input[type="text"],
+}
+.forms input[type="text"],
 .forms input[type="email"],
 .forms input[type="password"],
 .forms input[type="tel"]{
